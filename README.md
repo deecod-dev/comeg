@@ -1,4 +1,4 @@
-# 16S rRNA Microbiome Analysis Pipeline - Group-3 (Batch3)
+# 16S rRNA Microbiome Analysis Pipeline - Group-3 (Batch-3)
 
 ## Overview
 This pipeline processes 16S rRNA sequencing data through quality control, trimming, taxonomic classification, and diversity analysis for 20 samples (40 FASTQ files). The analysis includes quality assessment, adapter trimming, species-level classification using SPINGO, and diversity analysis with Shannon and Pielou indices.
